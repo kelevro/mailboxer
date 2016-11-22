@@ -11,6 +11,7 @@ spec/dummy/solr
 Gemfile.lock
 gemfiles/*.lock
 .idea
+tags
 .project
 .document
 .settings/
